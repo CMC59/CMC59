@@ -2,6 +2,7 @@
 
 <!--
 **CMC59/CMC59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![giphy (2)](https://user-images.githubusercontent.com/76819554/219779609-49f8221e-8115-4cd9-ae53-609ee97cfccc.gif)
 
 Here are some ideas to get you started:
 
