@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Next.**
 - ⚡ **I'm a saiyan(サイヤ人, Saiya-jin) trying to master React.**
-
 ![giphy (3)](https://user-images.githubusercontent.com/76819554/219790650-317a25c3-393d-4910-9783-eee50d30a2b9.gif)
 
 <h1>Tools i use :</h1>
@@ -43,9 +42,10 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmc59&theme=radical)
 
-**Super Saiyan (超サイヤ人, Supā Saiyajin) Final Impact COMMIT PUSH PULL.**
+**Super Saiyan (超サイヤ人, Supā Saiyajin) Final Impact Tech GIT :**<br>
 ![giphy (4)](https://user-images.githubusercontent.com/76819554/219797964-189376b4-cfba-4cf3-8c3e-7725b254ab89.gif)
 
+**Bash here / Clone Project / Init / Branch / COMMIT PUSH PULL.**
 <h1>Talk with me :</h1>
 
 ![giphy (5)](https://user-images.githubusercontent.com/76819554/219802975-bc6ce4df-2349-410e-a4e7-f57cdcf3a2aa.gif)
