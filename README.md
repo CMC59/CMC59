@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning **Python, Django.**
-- ⚡ **I'm a saiyan(サイヤ人, Saiya-jin) trying to master React.**
+- ⚡ **I'm a saiyan(サイヤ人, Saiya-jin) trying to master Python.**
 ![giphy (3)](https://user-images.githubusercontent.com/76819554/219790650-317a25c3-393d-4910-9783-eee50d30a2b9.gif)
 
 <h1>Tools i use :</h1>
