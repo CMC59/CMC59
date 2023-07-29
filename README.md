@@ -45,14 +45,14 @@ Here are some ideas to get you started:
 **Super Saiyan (超サイヤ人, Supā Saiyajin) Final Impact Tech GIT :**<br>
 ![giphy (4)](https://user-images.githubusercontent.com/76819554/219797964-189376b4-cfba-4cf3-8c3e-7725b254ab89.gif)
 
-**What I know how to do on Git :
-I can create a local branch from a master or dev branch.
-I can create a remote branch from a local branch.
-I know how to commit
-I can do a push
-I know how to pull
-I can retrieve a commit from one branch and put it on another branch
-I can make a merge request**
+**What I know how to do on Git :**
+**I can create a local branch from a master or dev branch.**
+**I can create a remote branch from a local branch.**
+**I know how to commit**
+**I can do a push**
+**I know how to pull**
+**I can retrieve a commit from one branch and put it on another branch**
+**I can make a merge request**
 <h1>Talk with me :</h1>
 
 ![giphy (5)](https://user-images.githubusercontent.com/76819554/219802975-bc6ce4df-2349-410e-a4e7-f57cdcf3a2aa.gif)
