@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 ![giphy (5)](https://user-images.githubusercontent.com/76819554/219802975-bc6ce4df-2349-410e-a4e7-f57cdcf3a2aa.gif)
 <p align="left">
-<a href="https://twitter.com/lolierlecolier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lolier" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/philippe-plaia-441a95164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philippe plaia" height="30" width="40" /></a>
 </p>
 
